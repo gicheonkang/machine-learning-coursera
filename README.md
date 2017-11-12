@@ -13,7 +13,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 **Programming Languages / Frameworks : (Basically)MATLAB, Octave, (Advanced)Python, Tensorflow**
 
 - Course 1: Neural Networks and Deep Learning
-- [Week 2 - PA 1 - Linear Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week2)
+  - [Week 2 - PA 1 - Linear Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week2)
 
 ## Milestones
 
