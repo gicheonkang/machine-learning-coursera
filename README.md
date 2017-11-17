@@ -14,6 +14,8 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 - Course 1: Neural Networks and Deep Learning
   - [Week 2 - PA 1 - Linear Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week2)
+  - [Week 3 - PA 2 - Logistic Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week3/ex2)
+
 
 ## Milestones
 
