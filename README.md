@@ -13,7 +13,7 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
 
 **Programming Languages / Frameworks : (Basically)MATLAB, Octave, (Advanced)Python, Tensorflow**
 
-- Chapter 1: Regression Issue
+- Chapter 1: Regression Issues
   - [Week 2 - Linear Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week2)
   - [Week 3 - Logistic Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week3/ex2)
 
