@@ -20,6 +20,6 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
 
 ## Milestones
 
-  - **2017-11-12**: First Commit ! ✌🏻
-  - **2017-11-19**: WEEK 2,3 Assignments are Uploaded.
+  - **2017-11-12**: First Commit ! ✌🏻 </br>
+  - **2017-11-19**: WEEK 2,3 Assignments are Uploaded.</br>
 
