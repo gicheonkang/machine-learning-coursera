@@ -36,9 +36,14 @@ grad = zeros(size(theta));
 %           grad = grad + YOUR_CODE_HERE (using the temp variable)
 %
 
+hypothesis = 1 ./ (1 + exp(-1 * X * theta));
+thetaZero = theta;
+thetaZero(1) = 0;
+J = (1/m) .* sum(-y .* log(hypothesis) -(1-y) .* log(1-hypothesis)) + (lambda/(2*m) .* sum(thetaZero .^2));  
 
-
-
+error = hypothesis - y;
+grad = (transpose(X) * error) .* (1/m);
+grad(2:end) = grad(2:end) + (lambda .* theta(2:end)) / m;
 
 
 
