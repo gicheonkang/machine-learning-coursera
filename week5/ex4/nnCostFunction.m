@@ -84,7 +84,14 @@ for i = 1:m,
 	end	
 end
 
-J = (1/m) .* sum(loss)
+Theta1Zero = Theta1;
+Theta1Zero(:, 1) = 0;
+
+Theta2Zero = Theta2;
+Theta2Zero(:, 1) = 0;
+
+
+J = (1/m) .* sum(loss) + (lambda/(2*m)) * (sum(sum(Theta1Zero .^ 2)) + sum(sum(Theta2Zero .^ 2)))
 
 
 
