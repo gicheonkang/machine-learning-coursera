@@ -63,6 +63,7 @@ Theta2_grad = zeros(size(Theta2));
 %
 
 
+% forward propagation
 X = [ones(m, 1) X];
 loss = zeros(m, 1);
 
@@ -90,20 +91,36 @@ Theta1Zero(:, 1) = 0;
 Theta2Zero = Theta2;
 Theta2Zero(:, 1) = 0;
 
-
 J = (1/m) .* sum(loss) + (lambda/(2*m)) * (sum(sum(Theta1Zero .^ 2)) + sum(sum(Theta2Zero .^ 2)))
 
 
+% back propagation
 
+for t = 1:m,
+	
+	label = zeros(num_labels, 1);
+	label(y(t)) = 1;
 
+	a1 = transpose(X(t, :));
+	z2 = Theta1 * a1;
+	a2 = 1 ./ (1 + exp(-1 * z2));
+	a2 = [1 ; a2];
 
+	z3 = Theta2 * a2;
+	a3 = 1 ./ (1 + exp(-1 * z3));
+	hypothesis = a3;
 
+	delta_layer3 = hypothesis - label;
+	delta_layer2 = (transpose(Theta2) * delta_layer3);
+	delta_layer2 = delta_layer2(2:end);
+	delta_layer2 = delta_layer2 .* sigmoidGradient(z2)
 
+	Theta2_grad = Theta2_grad + delta_layer3 * transpose(a2);
+	Theta1_grad = Theta1_grad + delta_layer2 * transpose(a1);	
+end
 
-
-
-
-
+Theta1_grad = (1/m) .* Theta1_grad + (lambda/m) .* Theta1Zero;
+Theta2_grad = (1/m) .* Theta2_grad + (lambda/m) .* Theta2Zero;
 
 
 
