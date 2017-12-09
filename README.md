@@ -20,7 +20,7 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - [Week4 - Neural Network Representation and Multi-class Classification](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week4)
   - [Week5 - Neural Network Learning with Forward Prop and Back Prop](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week5)
 
-- Chapter 3: Evaluating a Learning Algorithm
+- Chapter 3: Evaluating a Learning Algorithm </br>
   - [Week6 - Concepts of Bias/Variance, Applying Proper Solution](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week6)
 
 
