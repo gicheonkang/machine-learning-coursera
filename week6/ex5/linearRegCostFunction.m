@@ -22,7 +22,9 @@ grad = zeros(size(theta));
 thetaZero = theta;
 thetaZero(1) = 0;
 hypothesis = X * theta;
+
 J = (1/(2*m)) .* sum((hypothesis-y) .^2) + (1/(2*m)) * lambda .* sum(thetaZero .^2);
+
 
 error = hypothesis - y;
 for j=1:size(theta, 1),
