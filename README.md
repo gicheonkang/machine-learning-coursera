@@ -23,6 +23,8 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
 - Chapter 3: Evaluating a Learning Algorithm </br>
   - [Week6 - Concepts of Bias/Variance, Applying Proper Solution](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week6)
 
+- Chapter 4: Support Vector Machine </br>
+  - [Week7 - What is a Support Vector Machine?](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week7)
 
 
 ## Milestones
@@ -32,5 +34,7 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - **2017-11-26**: WEEK 4 Assignments are Uploaded.</br>
   - **2017-12-03**: WEEK 5 Assignments are Uploaded.</br>
   - **2017-12-09**: WEEK 6 Assignments are Uploaded.</br>
+  - **2018-01-12**: WEEK 7 Assignments are Uploaded.</br>
+
   
 
