@@ -28,7 +28,7 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - [TF IMPLEMENTATIONS(Recommended)](https://github.com/gicheonkang/machine-learning-coursera/tree/master/tf_implementation)
   
 
-
+ </br>
 
 ## Milestones
 
