@@ -11,7 +11,7 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
 
 ## Programming Assignments
 
-**Programming Languages / Frameworks : (Basically)MATLAB, Octave, (Advanced)Python, Tensorflow**
+**(Basic)MATLAB, Octave Version **
 
   - [Week 2 - Linear Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week2)
   - [Week 3 - Logistic Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week3) </br>
@@ -19,8 +19,14 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - [Week5 - Neural Network Learning with Forward Prop and Back Prop](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week5) </br>
   - [Week6 - Concepts of Bias/Variance, Applying Proper Solution](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week6) </br>
   - [Week7 - What is a Support Vector Machine?](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week7)
-  - [Week8 - K-means Clustering and PCA](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week8) </br>
+  - [Week8 - K-means Clustering and PCA](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week8)
+ 
+
+**(Advanced)Python, Tensorflow Version**
   
+  - [TF IMPLEMENTATIONS(Recommended)](https://github.com/gicheonkang/machine-learning-coursera/tree/master/tf_implementation)
+  
+
 
 
 ## Milestones
