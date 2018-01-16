@@ -20,8 +20,8 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - [Week6 - Concepts of Bias/Variance, Applying Proper Solution](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week6) </br>
   - [Week7 - What is a Support Vector Machine?](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week7)
 </br>
-  - [Week8 - K-means Clustering and PCA](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week8)
-
+  - [Week8 - K-means Clustering and PCA](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week8) </br>
+  
 
 
 ## Milestones
