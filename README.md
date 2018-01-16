@@ -23,7 +23,6 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
  
  </br>
  </br>
- </br>
 
 **(Advanced)Python, Tensorflow Version**
   
