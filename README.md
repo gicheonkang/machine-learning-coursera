@@ -11,7 +11,7 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
 
 ## Programming Assignments
 
-**(Basic)MATLAB, Octave Version **
+**(Basic)MATLAB, Octave Version**
 
   - [Week 2 - Linear Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week2)
   - [Week 3 - Logistic Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week3) </br>
@@ -21,6 +21,9 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - [Week7 - What is a Support Vector Machine?](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week7)
   - [Week8 - K-means Clustering and PCA](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week8)
  
+ </br>
+ </br>
+ </br>
 
 **(Advanced)Python, Tensorflow Version**
   
