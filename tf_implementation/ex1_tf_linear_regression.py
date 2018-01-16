@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
-data = np.loadtxt('ex1data1.txt', unpack=True, dtype=np.float32, delimiter=',')
+data = np.loadtxt('data/ex1data1.txt', unpack=True, dtype=np.float32, delimiter=',')
 data = data.transpose()
 # data shape (97,2)
 
