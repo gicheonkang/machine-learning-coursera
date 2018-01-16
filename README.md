@@ -22,7 +22,6 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - [Week8 - K-means Clustering and PCA](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week8)
  
  </br>
- </br>
 
 **(Advanced)Python, Tensorflow Version**
   
@@ -39,6 +38,6 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - **2017-12-03**: WEEK 5 Assignments are Uploaded.</br>
   - **2017-12-09**: WEEK 6 Assignments are Uploaded.</br>
   - **2018-01-12**: WEEK 7 Assignments are Uploaded.</br>
-  - **2018-01-16**: WEEK 8 Assignments are Uploaded.TF implementations are ongoing</br>
+  - **2018-01-16**: WEEK 8 Assignments are Uploaded. tensorFlow implementations are ongoing</br>
 
 
