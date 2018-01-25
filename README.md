@@ -15,11 +15,11 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
 
   - [Week 2 - Linear Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week2)
   - [Week 3 - Logistic Regression with a Neural Network mindset](https://github.com/gicheonkang/deep-learning-coursera/tree/master/week3) </br>
-  - [Week4 - Neural Network Representation and Multi-class Classification](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week4)
-  - [Week5 - Neural Network Learning with Forward Prop and Back Prop](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week5) </br>
-  - [Week6 - Concepts of Bias/Variance, Applying Proper Solution](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week6) </br>
-  - [Week7 - What is a Support Vector Machine?](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week7)
-  - [Week8 - K-means Clustering and PCA](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week8)
+  - [Week 4 - Neural Network Representation and Multi-class Classification](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week4)
+  - [Week 5 - Neural Network Learning with Forward Prop and Back Prop](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week5) </br>
+  - [Week 6 - Concepts of Bias/Variance, Applying Proper Solution](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week6) </br>
+  - [Week 7 - What is a Support Vector Machine?](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week7)
+  - [Week 8 - K-means Clustering and PCA](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week8)
  
  </br>
 
