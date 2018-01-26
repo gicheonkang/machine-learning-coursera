@@ -20,7 +20,7 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - [Week 6 - Concepts of Bias/Variance, Applying Proper Solution](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week6) </br>
   - [Week 7 - What is a Support Vector Machine?](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week7)
   - [Week 8 - K-means Clustering and PCA](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week8)
-  - [Week 9 - Anomaly Detection and Recommender System](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week9)
+  - [Week 9 - Anomaly Detection and Recommender System](https://github.com/gicheonkang/machine-learning-coursera/tree/master/week9)
 
  </br>
 
@@ -40,5 +40,6 @@ All the MATLAB based assignments, and Advanced Version of assignments with Tenso
   - **2017-12-09**: WEEK 6 Assignments are Uploaded.</br>
   - **2018-01-12**: WEEK 7 Assignments are Uploaded.</br>
   - **2018-01-16**: WEEK 8 Assignments are Uploaded. tensorFlow implementations are ongoing</br>
+  - **2018-01-26**: WEEK 9 Assignments are Uploaded.</br>
 
 
